@@ -1,0 +1,30 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading
+{
+font-size: 40px;
+width: 100%;
+margin: 0px;
+}
+
+.success
+{
+    font-size: 30px;
+    width: 500px;
+}
+
+.danger
+{
+    font-size: 30px;
+    width: 500px;
+}
+
+.info
+{
+    font-size: 30px;
+    width: 500px;
+}
